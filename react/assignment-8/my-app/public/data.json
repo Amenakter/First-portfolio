@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "name": "NosePin",
+        "price": "500",
+        "image": "images/N2.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Dimond NosePin",
+        "price": "520",
+        "image": "images/N3.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Dimand ring NosePin",
+        "price": "599",
+        "image": "images/N4.jpg"
+    },
+    {
+        "id": "4",
+        "name": "sticky NosePin",
+        "price": "400",
+        "image": "images/N5.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Found Matte Lipstick",
+        "price": "250",
+        "image": "images/L10.jpg"
+    },
+    {
+        "id": "6",
+        "name": "WaterProve Lipstick",
+        "price": "300",
+        "image": "images/L11.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Emaack lipstick",
+        "price": "200",
+        "image": "images/L12.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Major Shade queen",
+        "price": "400",
+        "image": "images/L9.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Jhumka EarRing",
+        "price": "500",
+        "image": "images/D1.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Jhumka",
+        "price": "400",
+        "image": "images/D2.jpg"
+    },
+    {
+        "id": "11",
+        "name": "black cotton Ring",
+        "price": "300",
+        "image": "images/D3.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Red Nailpolish",
+        "price": "150",
+        "image": "images/Ni3.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Sky NailPolish",
+        "price": "200",
+        "image": "images/Ni4.png"
+    },
+    {
+        "id": "14",
+        "name": "BlueBird Nailpolish",
+        "price": "300",
+        "image": "images/Ni5.png"
+    },
+    {
+        "id": "15",
+        "name": "Comfort Shoes",
+        "price": "800",
+        "image": "images/S1.jpg"
+    },
+    {
+        "id": "16",
+        "name": "WonderFul Color Print",
+        "price": "1000",
+        "image": "images/S2.jpg"
+    },
+    {
+        "id": "17",
+        "name": "ladies Shoes",
+        "price": "500",
+        "image": "images/S7.jpg"
+    }
+]
